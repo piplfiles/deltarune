@@ -1,2 +1,3 @@
 # deltarune
-deltarune music files yibbee
+deltarune music files yibbee  
+128 kbps
